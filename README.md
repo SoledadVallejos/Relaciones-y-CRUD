@@ -1,5 +1,5 @@
 
-<h1 align="center"> Tp-Relaciones-y-CRUD✨</h1>
+<h1 align="center"> Tp-Relaciones y CRUD✨</h1>
 
 ## Tabla de contenidos:
 ---
